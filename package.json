@@ -50,7 +50,7 @@
     "ng-packagr": "^4.7.1",
     "npm-registry-fetch": "^10.1.1",
     "properties-reader": "2.2.0",
-    "serialize-javascript": "^5.0.1",
+    "serialize-javascript": "^6.0.0",
     "ts-node": "^9.1.1",
     "tsickle": "0.38.0",
     "tslib": "^1.14.1",
